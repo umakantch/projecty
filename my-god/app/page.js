@@ -13,6 +13,7 @@ export default function Student(){
         <h1 style={{margin:"5px"}}>Student1</h1>
         <h1 className="m-5">Student2</h1>
         <Button onClick={submit}>click me</Button>
+        <h1>hii there</h1>
         </>
     )
 }
